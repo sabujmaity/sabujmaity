@@ -1,8 +1,8 @@
 # Hi, I'm Sabuj Maity! 👋
 
-**Software Engineering Intern @ Red Hat | M.Tech CSE @ NIT Bhopal**
+**Software Engineering Intern @ Red Hat**
 
-I am a software engineer building cloud-native workflows and dynamic GPU resource allocation tools (Kubernetes DRA) based out of Bangalore, India. 
+I am a software engineer currently building cloud-native workflows and dynamic GPU resource allocation tools (Kubernetes DRA) based out of Bangalore, India. 
 
 ### 🛠️ Tech Stack
 * **Languages & Tools:** C++, Python, Go, Java, JavaScript, SQL, Linux, Git.
@@ -14,5 +14,5 @@ I am a software engineer building cloud-native workflows and dynamic GPU resourc
 * **Rubik's Cube Solver:** Highly optimized C++ virtual solver executing Korf's IDA* algorithm to solve heavily scrambled cubes in under 10 seconds.
 
 ### 📫 Connect with Me
-* **LinkedIn:** [sabujmaity29](https://linkedin.com/in/sabujmaity29)
+* **LinkedIn:** [sabujmaity](https://linkedin.com/in/sabujmaity)
 * **Email:** sabujmaity29@gmail.com
