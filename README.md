@@ -2,13 +2,15 @@
 
 **Software Engineering Intern @ Red Hat**
 
-I am a software engineer currently building cloud-native workflows and dynamic GPU resource allocation tools (Kubernetes DRA) based out of Bangalore, India. 
+I am a software engineer based out of Bangalore, India, currently building cloud-native workflows and developing dynamic GPU resource allocation tools (Kubernetes DRA). 
 
 ### Tech Stack
-* **Languages & Tools:** C++, Python, Go, Java, JavaScript, SQL, Linux, Git.
-* **Frameworks:** ReactJS, NodeJS, Express, Flask, MongoDB.
+* **Cloud, Containers & DevOps:** Kubernetes, Docker, OpenShift (OCP), Google Cloud Platform (GCP), CRI-O, Dynamic Resource Allocation (DRA).
+* **Languages & Tools:** Go, C++, Python, Java, JavaScript, SQL, Linux, Git.
+* **Frameworks & Databases:** ReactJS, NodeJS, Express, Flask, MongoDB.
 
-### Featured Work
+### Open Source & Featured Work
+* **CRI-O Contributor:** Recently had a [Pull Request](https://github.com/cri-o/cri-o/pull/9799) merged into the official open-source **CRI-O** repository, contributing to the lightweight container runtime for Kubernetes. 
 * **Real-Time Whiteboard:** Scalable collaboration platform with React, Node.js, and Socket.IO, achieving sub-second update speeds.
 * **Problem Search Engine:** Cross-platform coding problem indexer built with Python, Flask, and TF-IDF ranking.
 * **Rubik's Cube Solver:** Highly optimized C++ virtual solver executing Korf's IDA* algorithm to solve heavily scrambled cubes in under 10 seconds.
