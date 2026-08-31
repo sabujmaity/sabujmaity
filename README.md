@@ -1,6 +1,6 @@
 # Hi, I'm Sabuj Maity! 👋
 
-**Software Engineering Intern @ Red Hat**
+**Software Engineer @ Red Hat**
 
 I am a software engineer based out of Bangalore, India, currently building cloud-native workflows and developing dynamic GPU resource allocation tools (Kubernetes DRA). 
 
